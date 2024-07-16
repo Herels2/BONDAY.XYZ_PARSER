@@ -7,6 +7,7 @@ import colorama
 import os
 from tqdm import tqdm
 
+# Инициализируем колораму
 colorama.init(autoreset=True)
 
 # Создаем нашу главную функцию get_data для получения данных
